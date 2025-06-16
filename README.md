@@ -1,5 +1,8 @@
 # hewking.top
 ## Posts
+- #68 [精通MCP](articles/68.md) 2025-06-16 `blog`
+- #67 [react 性能专项](articles/67.md) 2025-06-10 `blog`
+- #65 [Cursor Cluade 推荐 rules](articles/65.md) 2025-05-27 `blog`
 - #63 [The Clean Architecture](articles/63.md) 2025-05-20 `blog`
 - #61 [Linux 性能监控工具](articles/61.md) 2025-04-25 `blog`
 - #59 [Transformer decoder](articles/59.md) 2025-03-14 `blog`
