@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #71 [Workflow Automation Guide](articles/71.md) 2025-09-13 `blog`
 - #69 [Master in Cursor](articles/69.md) 2025-06-21 `blog`
 - #68 [精通MCP](articles/68.md) 2025-06-16 `blog`
 - #67 [react 性能专项](articles/67.md) 2025-06-10 `blog`
@@ -29,4 +30,3 @@
 - #13 [大互联网公司排斥链接改变互联网生态](articles/13.md) 2024-12-01 `blog`
 - #9 [构建基于 github ISSUE 的Blog](articles/9.md) 2024-12-01 `blog`
 - #6 [React Blog 项目实践](articles/6.md) 2024-12-01 `blog`
-- #3 [王慧文的清华产品课](articles/3.md) 2024-12-01 `blog`
